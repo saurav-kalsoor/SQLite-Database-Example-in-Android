@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLite App</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_surname">Enter Your Surname</string>
+    <string name="enter_your_marks">Enter Your Marks</string>
+    <string name="add_data">Add Data</string>
+    <string name="view_data">View Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_id">Delete ID</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="add_to_database">Add To Database</string>
+    <string name="trial">Trial</string>
+    <string name="search">Search</string>
+</resources>
